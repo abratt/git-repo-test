@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # _*_ coding: utf-8 _*_
+# author: abratt
 
 import re
 import psutil as ps

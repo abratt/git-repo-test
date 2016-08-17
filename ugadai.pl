@@ -3,6 +3,9 @@ use 5.010;
 use strict;
 use warnings;
 
+# Just a simple game
+# For testing only
+
 my $comp_num = int rand(200);
 my $user_num;
 my $bool = 0;

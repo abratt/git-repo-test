@@ -1,0 +1,8 @@
+---
+- hosts: web
+  sudo: yes
+
+  tasks:
+
+    - name: install nginx
+      apt

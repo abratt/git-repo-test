@@ -4,5 +4,11 @@
 
   tasks:
 
+<<<<<<< HEAD
     - name: NGINX |Installing NGINX repo rpm
       yum:
+=======
+    - name: install nginx
+      
+# test changes
+>>>>>>> testing
